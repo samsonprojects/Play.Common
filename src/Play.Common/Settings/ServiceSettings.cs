@@ -9,5 +9,6 @@ namespace Play.Common.Service.Settings
     {
         public string ServiceName { get; init; }
         public string Authority { get; init; }
+        public string MessageBroker { get; set; }
     }
 }

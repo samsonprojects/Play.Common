@@ -5,7 +5,7 @@ Common libraries used by Play microservices
 ## Create and publish package
 
 ```
-version="1.0.7"
+version="1.0.8"
 owner="samsonprojects"
 gh_pat="[PAT HERE]"
 
